@@ -1,6 +1,6 @@
-baseURL: https://dshah-wlw.github.io/
+baseURL: https://bsudh33r.github.io/
 languageCode: en-us
-title: dshah's site
+title: Bsudh33r's site
 paginate: 5
 theme: PaperModX
 
@@ -21,7 +21,7 @@ params:
 # set up home info details
   homeInfoParams:
       Title: Hi there 👋
-      Content: My name is dshah
+      Content: My name is BSudh33r
   socialIcons:
     - name: github-simple
       url: "https://github.com/dshah-wlw"
@@ -38,7 +38,7 @@ menu:
   main:
     - identifier: home
       name: home
-      url: "https://dshah-wlw.github.io"
+      url: "https://bsudh33r.github.io"
       weight: 10
     - identifier: posts
       name: posts
